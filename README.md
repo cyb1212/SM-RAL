@@ -5,7 +5,7 @@ Supplementary material is shown in main.pdf
 
 # Communication demo
 
-Please download the file: Comunication.zip.
+Please download the file: Communication.zip. (Communication.7z is a backup.)
 It is a demo to show the communication network and the bidding process. Operations:
 
 1. Run main.m file
