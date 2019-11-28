@@ -1,7 +1,9 @@
 # SM-RAL
+# Supplementary material
+
 Supplementary material is shown in main.pdf
 
-Communication demo
+# Communication demo
 
 Please download the file: Comunication.zip.
 It is a demo to show the communication network and the bidding process. Operations:
