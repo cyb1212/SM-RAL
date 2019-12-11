@@ -13,3 +13,5 @@ It is a demo to show the communication network and the bidding process. Operatio
 2. Input an integer corresponding to the number of the UAV of which sends its weakness to the network
 
 3. The demo will output the broadcast range by circles and the massage transformation by the arrow.
+
+In the demo, the circles mean the broadcast range and the arrows are the transfer of the useful messages.
